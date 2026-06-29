@@ -190,5 +190,6 @@ This project demonstrates practical implementation of:
 ---
 
 ## 👨‍💻 Author
+Malaika Mumtaz
 
 Developed as an Artificial Intelligence academic project to demonstrate the implementation of Expert Systems and Forward Chaining for student stress prediction and assessment.
